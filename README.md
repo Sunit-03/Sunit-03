@@ -1,6 +1,6 @@
 # Hi, I'm Sunit Mohan 👋
 
-🚀 Software Development Engineer | Frontend Specialist
+🚀 AI first Software Development Engineer | Frontend Specialist
 📍 Bangalore, India
 
 I build **scalable, high-performance web applications** with a focus on modern frontend architecture, clean UI systems, and real-world production reliability.
@@ -48,7 +48,7 @@ CRM Systems • WhatsApp Business API • Performance Optimization
 
 # 🚀 Featured Projects
 
-### 🧠 InterviewAI
+### [🧠 InterviewAI](https://interview-ai-frontend-sooty.vercel.app/)
 
 AI-powered interview preparation platform.
 
@@ -67,7 +67,7 @@ MongoDB • Express • React • Node.js • Gemini AI
 
 ---
 
-### ✈️ TravelX – AI Itinerary Planner
+### [✈️ TravelX – AI Itinerary Planner](https://travel-x-peach.vercel.app/)
 
 AI-powered travel planning application.
 
